@@ -1,0 +1,2 @@
+# BlazeMod
+Discord bot
